@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<presentations version="7">
+	<presentation src="C:\Users\ASUS\Desktop\Presentasi Kritik dan Humor.pptx">
+		<resource src="interactions\intr2.visuals"/>
+		<resource src="interactions\intr3.visuals"/>
+		<resource src="interactions\intr4.visuals"/>
+		<resource src="quiz\quiz1.quiz"/>
+		<resource src="quiz\quiz2.quiz"/>
+		<resource src="quiz\quiz3.quiz"/>
+		<resource src="quiz\quiz4.quiz"/>
+		<resource src="quiz\quiz5.quiz"/>
+		<resource src="quiz\quiz6.quiz"/>
+		<resource src="quiz\quiz7.quiz"/>
+	</presentation>
+</presentations>
